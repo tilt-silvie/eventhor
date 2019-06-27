@@ -1,0 +1,3 @@
+nose
+sphinx
+NEED_MODIFY
